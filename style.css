@@ -1,0 +1,30 @@
+@import url();
+
+:root {
+    --cor-principal: #6E859F;
+    --cor-principal: #284260;
+    --cor-principal: #c92bfc;
+}
+
+body {
+    font-family: 'chakra petch', sans-serif;
+    color: indianred;
+}
+
+h1, h2, h5 {
+    color: aquamarine;
+    font-weight: 700;
+}
+
+.lead, .btn-link {
+    color: burlywood;
+    font-weight: 700;
+}
+
+a, .btn-link:hover {
+    color: cadetblue;
+}
+
+a:hover{
+    color: aliceblue;
+}
